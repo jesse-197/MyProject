@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is CAB5-8270
+
+ Directory of C:\Users\DELL\Desktop\My Project
+
+03/25/2020  07:31 PM    <DIR>          .
+03/25/2020  07:31 PM    <DIR>          ..
+03/25/2020  07:31 PM                 0 MyTestFile.txt
+02/20/2020  12:43 PM               349 test1.txt
+               2 File(s)            349 bytes
+               2 Dir(s)  659,978,186,752 bytes free
