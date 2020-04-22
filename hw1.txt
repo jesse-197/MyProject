@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Volume in drive C is OS
  Volume Serial Number is CAB5-8270
 
@@ -12,3 +13,6 @@
 02/20/2020  12:43 PM               349 test1.txt
                4 File(s)            773 bytes
                3 Dir(s)  654,188,605,440 bytes free
+=======
+this is at test
+>>>>>>> 9b78452ccccc6bb610f10db9b0dc38b6e27f7b38
