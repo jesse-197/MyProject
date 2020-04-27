@@ -1,0 +1,46 @@
+[33mcommit 23bdb8676c2b3914b59e21c0e4a051f8c829e2ce[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: eb52b92 6db91e7
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Mon Apr 27 15:22:52 2020 -0500
+
+    Merge branch 'master' of https://github.com/jesse-197/MyProject
+
+[33mcommit eb52b926ffae66ade54e2906885040950aa74ad4[m
+Merge: 0ecdade 9b78452
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Wed Apr 22 13:15:34 2020 -0500
+
+    New commit message.
+
+[33mcommit 6db91e71a225c1859d7b2af3ee9201ef5d8c821f[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 0ecdade 9b78452
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Wed Apr 22 13:15:34 2020 -0500
+
+    Merge branch 'master' of https://github.com/jesse-197/MyProject
+    
+    hope
+
+[33mcommit 0ecdade2a4b2d1003db6746d08c3f22189f9d8af[m[33m ([m[1;31morigin/flores[m[33m, [m[1;32mflores[m[33m)[m
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Wed Apr 22 12:45:22 2020 -0500
+
+    This is the new snapshot hopefully
+
+[33mcommit bd298f6b801a61ba6537d79b1d2a7447e2f26065[m
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Wed Apr 1 19:00:24 2020 -0500
+
+    add hw1.txt
+
+[33mcommit 9b78452ccccc6bb610f10db9b0dc38b6e27f7b38[m
+Author: jesse-197 <61517229+jesse-197@users.noreply.github.com>
+Date:   Wed Apr 1 18:46:24 2020 -0500
+
+    Create hw1.txt
+
+[33mcommit 1386d1463855d71b272cf973fa669c6b2f2aa2bd[m
+Author: Jesse <Jessefloresjr16@gmail.com>
+Date:   Wed Apr 1 18:36:58 2020 -0500
+
+    first commit
