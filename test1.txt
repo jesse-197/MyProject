@@ -1,10 +1,3 @@
- Volume in drive C is OS
- Volume Serial Number is CAB5-8270
+ this will be the file being changed 
+add a line of code for the hw 
 
- Directory of C:\Users\DELL\Desktop\My Project
-
-02/20/2020  11:43 AM    <DIR>          .
-02/20/2020  11:43 AM    <DIR>          ..
-02/20/2020  11:43 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  658,595,823,616 bytes free
